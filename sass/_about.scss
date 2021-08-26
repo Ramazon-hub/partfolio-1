@@ -7,7 +7,8 @@
     object-fit: cover;
     border-radius:20px;
     @media only screen and(max-width:301px){
-      width: 100%;
+      width: 200px;
+      height: 200px;
     }
   }
 
